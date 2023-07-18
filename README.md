@@ -1,7 +1,5 @@
 # Fine-Tuning BERT for Sentence-Pair Classification
 
-![BERT for Sentence-Pair Classification](image_link_goes_here)
-
 This repository contains a TensorFlow implementation that demonstrates how to fine-tune BERT-based models for the sentence-pair classification task. By leveraging the Hugging Face transformers and datasets libraries, this project enables researchers and developers to quickly experiment and evaluate various BERT models.
 
 ## Introduction
